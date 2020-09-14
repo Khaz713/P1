@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Gamev1:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10eb2089-4ace-4b10-b4c7-47c3ecf803ab" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1681">
+              <caret line="193" selection-start-line="193" selection-end-line="193" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/Sound.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/menus/Menu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="172" column="5" selection-start-line="172" selection-start-column="5" selection-end-line="172" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/game/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="537">
+              <caret line="328" column="77" selection-start-line="328" selection-start-column="77" selection-end-line="328" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/Start.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Gam</find>
+      <find>Game.</find>
+      <find>Game.g</find>
+      <find>MenuState</find>
+      <find>keyP</find>
+      <find>initTim</find>
+      <find>livesNum</find>
+      <find>shooterRa</find>
+      <find>animationFrame</find>
+      <find>standingor</find>
+      <find>keyre</find>
+      <find>gameoversound</find>
+      <find>gameState = 2</find>
+      <find>levelsUnlocked</find>
+      <find>menu.</find>
+      <find>congrat</find>
+      <find>background</find>
+      <find>animation</find>
+      <find>setIma</find>
+      <find>Backgrou</find>
+      <find>sprites.remo</find>
+      <find>for</find>
+      <find>sprites.add</find>
+      <find>mainTimer</find>
+      <find>Congrats</find>
+      <find>Item</find>
+      <find>congratsSound</find>
+      <find>stopTimers</find>
+      <find>ini</find>
+      <find>price</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+    <option name="HIDE_CLASSES_WHERE_METHOD_NOT_IMPLEMENTED" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Game.java" />
+        <option value="$PROJECT_DIR$/src/Menus/Button.java" />
+        <option value="$PROJECT_DIR$/src/Menus/Options.java" />
+        <option value="$PROJECT_DIR$/src/Menus/Levels.java" />
+        <option value="$PROJECT_DIR$/src/Start.java" />
+        <option value="$PROJECT_DIR$/src/Menus/Fonts.java" />
+        <option value="$PROJECT_DIR$/src/Game/Start.java" />
+        <option value="$PROJECT_DIR$/src/Assets/Background.java" />
+        <option value="$PROJECT_DIR$/src/Assets/Powerup.java" />
+        <option value="$PROJECT_DIR$/src/Assets/Coin.java" />
+        <option value="$PROJECT_DIR$/src/Assets/Bullet.java" />
+        <option value="$PROJECT_DIR$/src/Assets/Danger.java" />
+        <option value="$PROJECT_DIR$/src/Assets/Music.java" />
+        <option value="$PROJECT_DIR$/src/Assets/Sound.java" />
+        <option value="$PROJECT_DIR$/src/Assets/Obstacle.java" />
+        <option value="$PROJECT_DIR$/src/Assets/Player.java" />
+        <option value="$PROJECT_DIR$/src/Assets/Shooter.java" />
+        <option value="$PROJECT_DIR$/src/Menus/Shop.java" />
+        <option value="$PROJECT_DIR$/src/Menus/Tutorial.java" />
+        <option value="$PROJECT_DIR$/src/Assets/Heart.java" />
+        <option value="$PROJECT_DIR$/src/Assets/Sprite.java" />
+        <option value="$PROJECT_DIR$/src/Menus/Menu.java" />
+        <option value="$PROJECT_DIR$/src/Game/Game.java" />
+        <option value="$PROJECT_DIR$/src/Menus/CongratsScreen.java" />
+        <option value="$PROJECT_DIR$/src/Menus/GameOverScreen.java" />
+        <option value="$PROJECT_DIR$/src/menus/CongratsScreen.java" />
+        <option value="$PROJECT_DIR$/src/menus/Fonts.java" />
+        <option value="$PROJECT_DIR$/src/game/Start.java" />
+        <option value="$PROJECT_DIR$/src/menus/GameOverScreen.java" />
+        <option value="$PROJECT_DIR$/src/menus/LevelButton.java" />
+        <option value="$PROJECT_DIR$/src/menus/Levels.java" />
+        <option value="$PROJECT_DIR$/src/menus/Options.java" />
+        <option value="$PROJECT_DIR$/src/menus/Pause.java" />
+        <option value="$PROJECT_DIR$/src/menus/ShopButton.java" />
+        <option value="$PROJECT_DIR$/src/menus/Tutorial.java" />
+        <option value="$PROJECT_DIR$/src/menus/Button.java" />
+        <option value="$PROJECT_DIR$/src/assets/Sound.java" />
+        <option value="$PROJECT_DIR$/src/assets/Powerup.java" />
+        <option value="$PROJECT_DIR$/src/assets/Obstacle.java" />
+        <option value="$PROJECT_DIR$/src/assets/Music.java" />
+        <option value="$PROJECT_DIR$/src/assets/Heart.java" />
+        <option value="$PROJECT_DIR$/src/assets/Danger.java" />
+        <option value="$PROJECT_DIR$/src/assets/Coin.java" />
+        <option value="$PROJECT_DIR$/src/assets/Bullet.java" />
+        <option value="$PROJECT_DIR$/src/assets/Background.java" />
+        <option value="$PROJECT_DIR$/src/assets/Shooter.java" />
+        <option value="$PROJECT_DIR$/src/assets/Sprite.java" />
+        <option value="$PROJECT_DIR$/src/assets/Player.java" />
+        <option value="$PROJECT_DIR$/src/menus/Shop.java" />
+        <option value="$PROJECT_DIR$/src/game/Game.java" />
+        <option value="$PROJECT_DIR$/src/menus/Menu.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1134" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="P1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="menus" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548110614825" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/diagram_game_menus.jpg" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Game" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Start (1)">
+    <configuration name="Start (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.Start" />
+      <module name="Gamev1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game.Start" />
+      <module name="Gamev1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Start" />
+      <item itemvalue="Application.Start (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start (1)" />
+        <item itemvalue="Application.Start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10eb2089-4ace-4b10-b4c7-47c3ecf803ab" name="Default Changelist" comment="" />
+      <created>1540295603461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540295603461</updated>
+      <workItem from="1540295606644" duration="482000" />
+      <workItem from="1540297817887" duration="1615000" />
+      <workItem from="1540319424399" duration="5181000" />
+      <workItem from="1540326393177" duration="88000" />
+      <workItem from="1540371755623" duration="9975000" />
+      <workItem from="1540545467723" duration="1230000" />
+      <workItem from="1540578881604" duration="300000" />
+      <workItem from="1540888251839" duration="1898000" />
+      <workItem from="1540890187070" duration="18000" />
+      <workItem from="1540890399969" duration="122000" />
+      <workItem from="1540890626999" duration="140000" />
+      <workItem from="1540981216980" duration="5816000" />
+      <workItem from="1541410221330" duration="3049000" />
+      <workItem from="1541671691153" duration="1796000" />
+      <workItem from="1542183948534" duration="634000" />
+      <workItem from="1542203978469" duration="5616000" />
+      <workItem from="1542362270573" duration="1713000" />
+      <workItem from="1542549355953" duration="136000" />
+      <workItem from="1542557056344" duration="1904000" />
+      <workItem from="1542561807830" duration="68000" />
+      <workItem from="1542620543182" duration="2103000" />
+      <workItem from="1542656076968" duration="3444000" />
+      <workItem from="1542798975757" duration="1363000" />
+      <workItem from="1543422763507" duration="3341000" />
+      <workItem from="1543488928969" duration="3947000" />
+      <workItem from="1543493309964" duration="2268000" />
+      <workItem from="1543495637237" duration="600000" />
+      <workItem from="1543756931388" duration="3360000" />
+      <workItem from="1543775438143" duration="874000" />
+      <workItem from="1543838207389" duration="9127000" />
+      <workItem from="1543847463554" duration="1973000" />
+      <workItem from="1543849905877" duration="4220000" />
+      <workItem from="1543854854457" duration="505000" />
+      <workItem from="1543917370806" duration="2900000" />
+      <workItem from="1543932929577" duration="1394000" />
+      <workItem from="1543999492823" duration="14042000" />
+      <workItem from="1544016257017" duration="440000" />
+      <workItem from="1544021520467" duration="3935000" />
+      <workItem from="1544093199702" duration="22273000" />
+      <workItem from="1544131821912" duration="386000" />
+      <workItem from="1544132232459" duration="14000" />
+      <workItem from="1544132301947" duration="1636000" />
+      <workItem from="1544223681170" duration="1000" />
+      <workItem from="1544470270643" duration="6077000" />
+      <workItem from="1544521775006" duration="1008000" />
+      <workItem from="1544522822063" duration="6932000" />
+      <workItem from="1544531325945" duration="2156000" />
+      <workItem from="1544642119674" duration="1579000" />
+      <workItem from="1544701701018" duration="7509000" />
+      <workItem from="1544713388954" duration="86000" />
+      <workItem from="1544713599400" duration="63000" />
+      <workItem from="1544714512726" duration="811000" />
+      <workItem from="1544715666772" duration="132000" />
+      <workItem from="1544716088049" duration="104000" />
+      <workItem from="1544717096748" duration="225000" />
+      <workItem from="1544717469349" duration="66000" />
+      <workItem from="1545210727217" duration="129000" />
+      <workItem from="1545210903705" duration="64000" />
+      <workItem from="1545235363860" duration="256000" />
+      <workItem from="1545236567320" duration="592000" />
+      <workItem from="1548110254119" duration="363000" />
+      <workItem from="1548111585268" duration="185000" />
+      <workItem from="1549270435640" duration="24000" />
+      <workItem from="1549638452508" duration="1987000" />
+      <workItem from="1551543721375" duration="159000" />
+      <workItem from="1600086487903" duration="30000" />
+    </task>
+    <task id="LOCAL-00001" summary="update 1">
+      <created>1540889011313</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540889011313</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update 2">
+      <created>1540890709698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540890709698</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update 2">
+      <created>1541411217384</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1541411217384</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update 3">
+      <created>1541411301036</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1541411301036</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update 3">
+      <created>1541414543725</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1541414543725</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update 3">
+      <created>1542184491213</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542184491213</updated>
+    </task>
+    <task id="LOCAL-00007" summary="patch">
+      <created>1543854171370</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1543854171370</updated>
+    </task>
+    <task id="LOCAL-00008" summary="patch">
+      <created>1543854978080</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1543854978080</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="162176000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.79432625" visible="true" weight="0.17697228" />
+      <window_info id="Structure" order="1" sideWeight="0.20567375" side_tool="true" weight="0.28907564" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286026" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986577" weight="0.18632856" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39847162" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32896176" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013423" side_tool="true" weight="0.32056737" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32092005" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32671082" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24915825" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32988626" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update 1" />
+    <MESSAGE value="update 2" />
+    <MESSAGE value="update 3" />
+    <MESSAGE value="patch" />
+    <option name="LAST_COMMIT_MESSAGE" value="patch" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Background.java" />
+    <entry file="file://$PROJECT_DIR$/src/Congrats.java" />
+    <entry file="file://$PROJECT_DIR$/src/Fonts.java" />
+    <entry file="file://$PROJECT_DIR$/src/Sprite.java" />
+    <entry file="file://$PROJECT_DIR$/src/Shooter.java" />
+    <entry file="file://$PROJECT_DIR$/src/Player.java" />
+    <entry file="file://$PROJECT_DIR$/src/Obstacle.java" />
+    <entry file="file://$PROJECT_DIR$/src/Updates/UpdateSprites.java" />
+    <entry file="file://$PROJECT_DIR$/src/TAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/src/LevelButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/Powerup.java" />
+    <entry file="file://$PROJECT_DIR$/src/CongratsScreen.java" />
+    <entry file="file://$PROJECT_DIR$/src/Levels.java" />
+    <entry file="file://$PROJECT_DIR$/src/ShopButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/Item.java" />
+    <entry file="file://$PROJECT_DIR$/src/Shop.java" />
+    <entry file="file://$PROJECT_DIR$/src/Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/Game.java" />
+    <entry file="uml://ReferenceDiagramProvider/Game.Game">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID />
+          <OriginalElement>Game.Game</OriginalElement>
+          <nodes>
+            <node x="" y="">Game.Game#initTimers()</node>
+            <node x="" y="">Game.Game#shooterTimer</node>
+            <node x="" y="">Game.Game#gameState</node>
+            <node x="" y="">Game.Game#getMusicOption()</node>
+            <node x="" y="">Game.Game#newGame()</node>
+            <node x="" y="">Game.Game#initLives()</node>
+            <node x="" y="">Game.Game#saveGame()</node>
+            <node x="" y="">Game.Game#paintComponent(Graphics)</node>
+            <node x="" y="">Game.Game#getWindowWidth()</node>
+            <node x="" y="">Game.Game#stopTimers()</node>
+            <node x="" y="">Game.Game#getCoins()</node>
+            <node x="" y="">Game.Game#player</node>
+            <node x="" y="">Game.Game#sounds</node>
+            <node x="" y="">Game.Game#loadSave()</node>
+            <node x="" y="">Game.Game#coins</node>
+            <node x="" y="">Game.Game#drawGameOverScreen(Graphics)</node>
+            <node x="" y="">Game.Game#actionPerformed(ActionEvent)</node>
+            <node x="" y="">Game.Game#music</node>
+            <node x="" y="">Game.Game#windowHeight</node>
+            <node x="" y="">Game.Game#menuState</node>
+            <node x="" y="">Game.Game#windowWidth</node>
+            <node x="" y="">Game.Game#levelTime</node>
+            <node x="" y="">Game.Game#timersOn</node>
+            <node x="" y="">Game.Game#timers()</node>
+            <node x="" y="">Game.Game#livesNum</node>
+            <node x="" y="">Game.Game#getSoundOption()</node>
+            <node x="" y="">Game.Game#gameOverScreen</node>
+            <node x="" y="">Game.Game#closeMenu()</node>
+            <node x="" y="">Game.Game#Game()</node>
+            <node x="" y="">Game.Game#musicOption</node>
+            <node x="" y="">Game.Game#getLevelsUnlocked()</node>
+            <node x="" y="">Game.Game#checkCollisions()</node>
+            <node x="" y="">Game.Game#pause</node>
+            <node x="" y="">Game.Game#updateSprites()</node>
+            <node x="" y="">Game.Game#shieldOn</node>
+            <node x="" y="">Game.Game#levels</node>
+            <node x="" y="">Game.Game#closeGame()</node>
+            <node x="" y="">Game.Game#menu</node>
+            <node x="" y="">Game.Game#options</node>
+            <node x="" y="">Game.Game#soundOption</node>
+            <node x="" y="">Game.Game#obstacleTimer</node>
+            <node x="" y="">Game.Game#shooterRandomTimer</node>
+            <node x="" y="">Game.Game#congratsScreen</node>
+            <node x="" y="">Game.Game#newMenu()</node>
+            <node x="" y="">Game.Game#levelTimer</node>
+            <node x="" y="">Game.Game#initGame()</node>
+            <node x="" y="">Game.Game#shop</node>
+            <node x="" y="">Game.Game#powerupRandomTimer</node>
+            <node x="" y="">Game.Game#getWindowHeight()</node>
+            <node x="" y="">Game.Game#tutorial</node>
+            <node x="" y="">Game.Game#spritesRandomTimer</node>
+            <node x="" y="">Game.Game#drawGame(Graphics)</node>
+            <node x="" y="">Game.Game#sprites</node>
+            <node x="" y="">Game.Game#levelNum</node>
+            <node x="" y="">Game.Game.TAdapter</node>
+            <node x="" y="">Game.Game#mainTimer</node>
+            <node x="" y="">Game.Game#levelsUnlocked</node>
+            <node x="" y="">Game.Game#shooter</node>
+            <node x="" y="">Game.Game#checkTimer()</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.16092180421508764" x="2529.0" y="713.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Assets.Sound">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Assets.Sound</OriginalElement>
+          <nodes>
+            <node x="" y="">Assets.Sound</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="41.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Game.Game">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Game.Game</OriginalElement>
+          <nodes>
+            <node x="" y="">javax.swing.JComponent</node>
+            <node x="" y="">java.util.EventListener</node>
+            <node x="" y="">java.awt.event.ActionListener</node>
+            <node x="" y="">Game.Game</node>
+            <node x="" y="">javax.swing.TransferHandler.HasGetTransferHandler</node>
+            <node x="" y="">java.awt.MenuContainer</node>
+            <node x="" y="">javax.accessibility.Accessible</node>
+            <node x="" y="">java.awt.Container</node>
+            <node x="" y="">java.awt.Component</node>
+            <node x="" y="">java.awt.image.ImageObserver</node>
+            <node x="" y="">javax.swing.JPanel</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="219.0" y="212.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Game.Start">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Game.Start</OriginalElement>
+          <nodes>
+            <node x="" y="">java.awt.Frame</node>
+            <node x="" y="">java.awt.Window</node>
+            <node x="" y="">javax.swing.TransferHandler.HasGetTransferHandler</node>
+            <node x="" y="">java.awt.MenuContainer</node>
+            <node x="" y="">javax.swing.RootPaneContainer</node>
+            <node x="" y="">javax.accessibility.Accessible</node>
+            <node x="" y="">java.awt.Component</node>
+            <node x="" y="">java.awt.image.ImageObserver</node>
+            <node x="" y="">Game.Start</node>
+            <node x="" y="">java.io.Serializable</node>
+            <node x="" y="">java.awt.Container</node>
+            <node x="" y="">javax.swing.JFrame</node>
+            <node x="" y="">javax.swing.WindowConstants</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6795366795366795" x="379.0" y="252.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://ReferenceDiagramProvider/Game.Start">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID />
+          <OriginalElement>Game.Start</OriginalElement>
+          <nodes>
+            <node x="" y="">Game.Start#initWindow()</node>
+            <node x="" y="">Game.Start#main(String[])</node>
+            <node x="" y="">Game.Start#Start()</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="61.0" y="91.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menus/CongratsScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menus/Fonts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menus/GameOverScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menus/LevelButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menus/Options.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menus/Pause.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menus/Tutorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menus/Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Powerup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Obstacle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Heart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Danger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Coin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Bullet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/game">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>game</OriginalElement>
+          <nodes>
+            <node x="" y="">menus.ShopButton</node>
+            <node x="" y="">menus.CongratsScreen</node>
+            <node x="" y="">menus.GameOverScreen</node>
+            <node x="" y="">menus.Levels</node>
+            <node x="" y="">menus.LevelButton</node>
+            <node x="" y="">game.Game</node>
+            <node x="" y="">menus.Button</node>
+            <node x="" y="">menus.Options</node>
+            <node x="" y="">menus.Fonts</node>
+            <node x="" y="">menus.Menu</node>
+            <node x="" y="">game.Start</node>
+            <node x="" y="">menus.Pause</node>
+            <node x="" y="">menus.Shop</node>
+            <node x="" y="">menus.Tutorial</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="491.0" y="330.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Background.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Sprite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Shooter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="65" column="77" selection-start-line="65" selection-start-column="77" selection-end-line="65" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2025#2026#0" expanded="true" />
+            <element signature="e#2079#2080#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Music.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menus/Levels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menus/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3842">
+          <caret line="231" selection-start-line="231" selection-end-line="231" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menus/ShopButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gamev1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Sound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menus/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="172" column="5" selection-start-line="172" selection-start-column="5" selection-end-line="172" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1681">
+          <caret line="193" selection-start-line="193" selection-end-line="193" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="328" column="77" selection-start-line="328" selection-start-column="77" selection-end-line="328" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Gamev1:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Gamev1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
